@@ -1,0 +1,11 @@
+console.log("SUPERMERCADO DIAMANTE");
+console.log("Productos:");
+console.log("Harina 000", 20);
+console.log("Leche LaSerenisima", 8);
+console.log("Huevos x6", 5);
+console.log("Jabon En Polvo Ala", 15);
+console.log("Acondiccionador Dove", 4);
+console.log("Coca Cola 2,25L", 7);
+console.log("Arroz El Chino", 13);
+console.log("Colonia Pibes", 3);
+console.log("Queso Cremoso Cremon", 16);
